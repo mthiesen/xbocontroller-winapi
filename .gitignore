@@ -1,0 +1,9 @@
+# Ignore various IDE directories
+/.vs
+/.idea
+/.vscode
+
+# Ignore various build artifact directories
+/build
+/out
+/cmake-*
